@@ -2,7 +2,6 @@
 Hi! I’m Jovanka Wilyam Muzaki, an active Information Systems student at Institut Bisnis dan Informatika Kesatuan (IBIK) Bogor. I'm Learning Web Frontend Developer
 
 
-Lestgoo abangkuhh
 
 
 ## 🌐 Socials:
