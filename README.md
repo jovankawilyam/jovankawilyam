@@ -2,8 +2,6 @@
 Hi! I’m Jovanka Wilyam Muzaki, an active Information Systems student at Institut Bisnis dan Informatika Kesatuan (IBIK) Bogor. I'm Learning Web Frontend Developer
 
 
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jovankawilyamm) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@masss.joo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jovankamuzaki1@gmail.com) 
 
