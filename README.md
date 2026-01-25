@@ -18,4 +18,7 @@ Hi! I’m Jovanka Wilyam Muzaki, an active Information Systems student at Instit
 ---
 [![](https://visitcount.itsvg.in/api?id=jovankawilyam&icon=4&color=1)](https://visitcount.itsvg.in)
 
+INFO MAGANG BANG
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
