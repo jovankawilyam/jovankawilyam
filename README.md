@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Jovanka Wilyam Muzaki, an active Information Systems student at Institut Bisnis dan Informatika Kesatuan (IBIK) Bogor. I'm Learning Frontend Web Developer
+Hi! I'm Jovanka Wilyam Muzaki, an active Information Systems student at Institut Bisnis dan Informatika Kesatuan (IBIK) Bogor. I'm Learning Frontend Web Developer UI/UX Designer | Frontend Devloper | Backend Devloper
 
 
 ## 🌐 Socials:
